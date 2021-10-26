@@ -1,7 +1,7 @@
 # preassessmentTest
 # There is no other dependencices to add.
 
-#J ar (preassessment-0.0.1-SNAPSHOT.jar) is placed parallel to src folder
+# Jar (preassessment-0.0.1-SNAPSHOT.jar) is placed parallel to src folder
 
 # To see the API results please use below endpoints.
 
